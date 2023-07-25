@@ -8,7 +8,7 @@
       </ul>
     </li>
     <li><a href="###installation">Installation</a></li>
-     <li><a href="###Netlify">Netlify Deployed link</a></li>
+     <li><a href="#Netlify">Netlify Deployed link</a></li>
   </ol>
 
 ## About The Project
