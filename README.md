@@ -8,7 +8,7 @@
       </ul>
     </li>
     <li><a href="###installation">Installation</a></li>
-     <li><a href="###Netlify Deployed link">Netlify Deployed link</a></li>
+     <li><a href="###Netlify">Netlify Deployed link</a></li>
   </ol>
 
 ## About The Project
@@ -28,5 +28,5 @@ To get a local copy up and running, just Clone the repo
    ```
 and fire up the Local Development server using [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
    
-###Netlify Deployed link
+### Netlify
 https://weather-applictionbykunal.netlify.app/
